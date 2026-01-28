@@ -1,6 +1,6 @@
 
 
-# 📊 Exploratory Data Analysis (EDA) - Steps and Importance
+# 📊 Exploratory Data Analysis (EDA) -  Steps and Importance
 
 ## 🧠 Overview
 
